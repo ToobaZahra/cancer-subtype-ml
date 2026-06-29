@@ -67,3 +67,7 @@ plt.title('PCA of Breast Cancer Dataset')
 plt.legend()
 plt.savefig('pca_plot.png')
 print("PCA plot saved!")
+
+
+
+
